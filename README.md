@@ -26,3 +26,5 @@ Añade todos los archivos modificados, creados o eliminados del directorio actua
 ### `git commit -m "comentario"`
 Guarda una captura de los cambios que estaban en el área de preparación en el historial local, incluyendo un mensaje breve que describe lo que se realizó.
 
+### `git push origin main`
+Sube (envía) los commits guardados en tu repositorio local hacia la rama principal (`main`) del repositorio remoto configurado como `origin` (por ejemplo, en GitHub, GitLab o Bitbucket).
