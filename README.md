@@ -28,3 +28,6 @@ Guarda una captura de los cambios que estaban en el área de preparación en el 
 
 ### `git push origin main`
 Sube (envía) los commits guardados en tu repositorio local hacia la rama principal (`main`) del repositorio remoto configurado como `origin` (por ejemplo, en GitHub, GitLab o Bitbucket).
+
+### `git pull origin main`
+Actualiza lo avanzado en la githab
